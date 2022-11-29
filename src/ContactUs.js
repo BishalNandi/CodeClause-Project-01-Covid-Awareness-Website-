@@ -5,9 +5,9 @@ const ContactUs = () => {
     <div>
         {/* <!-- Contact with us --> */}
     <section class="contact">
-        <div class="container-fluid pt-5 pb-5" id="contactid">
+        <div class="container-fluid pb-5" id="contactid">
             <div class="section_header text-center mb-5 mt-4">
-                <h1 className='bg-light'> Contact with Us </h1>
+                <h1 className='bg-light bg-light border border-light shadow p-3 mb-5 bg-white rounded'> Contact with Us </h1>
             </div>
             <div class="container">
                 <div class="row">

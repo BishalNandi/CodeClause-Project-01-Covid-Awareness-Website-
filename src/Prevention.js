@@ -11,7 +11,7 @@ const Prevention = () => {
     <section class="prevent_corona">
         <div class="container-fluid sub_section pt-5 pb-5" id="previd">
             <div class="section_header text-center mb-5 mt-4">
-                <h1 className='bg-light'> 3 easy-Steps to Prevent Nobel Corona Virus </h1>
+                <h1 className='bg-light bg-light border border-light shadow p-3 mb-5 bg-white rounded'> 3 easy-Steps to Prevent Nobel Corona Virus </h1>
             </div>
             <div class="container">
                 <div class="row">
@@ -51,7 +51,7 @@ const Prevention = () => {
                             </div>
                         </div>
                     </div>
-                    <p class="prevention_info">
+                    <p class="prevention_info bg-light">
                         According to WHO : The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.
                     </p>
                 </div>

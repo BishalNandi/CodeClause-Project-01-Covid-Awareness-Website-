@@ -18,7 +18,7 @@ const Main = () => {
             </div>
             <div class="col-lg-7 col-md-7 col-12 order-lg-2 order-1">
                 <div class="rightside w-100 h-20 d-flex justify-content-center align-items-center">
-                    <h1 className='heading'> Stay Home <i class="fa fa-home"></i> <span class="text-success"> Stay Safe </span> Let's Fight Together Against Cor<span class="rotate"><img src={gify} alt="O" className='o'/></span>na Virus... </h1>
+                    <h1 className='heading bg-light rounded border border-light '> Stay Home <i class="fa fa-home"></i> <span class="text-success"> Stay Safe </span> Let's Fight Together Against Cor<span class="rotate"><img src={gify} alt="O" className='o'/></span>na Virus... </h1>
 
                 </div>
             </div>

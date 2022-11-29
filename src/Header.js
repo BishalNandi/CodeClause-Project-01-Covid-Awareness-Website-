@@ -6,7 +6,7 @@ const Header = () => {
     <div>
           {/* Navbar   */}
           
-    <nav class="navbar navbar-expand-lg nav_style p-3 bg-light">
+    <nav class="navbar navbar-expand-lg nav_style p-3 bg-light bg-light border border-light shadow p-3 mb-5 bg-white rounded">
         <a class="navbar-brand pl-5 font-weight-bolder text-primary" href="index.php"> COVID-19</a>
         <button class="navbar-toggler navbar-dark bg-dark" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

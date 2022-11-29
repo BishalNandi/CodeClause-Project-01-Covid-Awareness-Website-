@@ -14,7 +14,7 @@ const Symptoms = () => {
     <section class="symtoms_corona">
         <div class="container-fluid pt-5 pb-5" id="sympid">
             <div class="section_header text-center mb-5 mt-4">
-                <h1 className='bg-light'> COVID-19 Symtoms </h1>
+                <h1 className='bg-light bg-light border border-light shadow p-3 mb-5 bg-white rounded'> COVID-19 Symtoms </h1>
             </div>
             <div class="container">
                 <div class="row">
