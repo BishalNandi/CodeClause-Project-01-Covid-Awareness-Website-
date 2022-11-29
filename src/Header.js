@@ -12,7 +12,7 @@ const Header = () => {
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ml-auto pr-5 text-capitalize">
+            <ul class="navbar-nav ml-auto pr-5 text-capitalize cursor-pointer">
                 <li class="nav-item">
                     <a class="nav-link font-weight-bolder" href="index.php">Home</a>
                 </li>

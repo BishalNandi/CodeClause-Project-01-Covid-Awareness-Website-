@@ -29,3 +29,8 @@ marquee{
         height: 300px;
         margin-top: 50px;
     }
+
+    .nav-link:hover{
+        background-color: azure;
+        border-radius: 20px;
+    }
